@@ -84,8 +84,9 @@ Other dependencies can be found in the `pom.xml` file.
 
 ### Contact
 
-1. [Tiantian Liu](https://vbn.aau.dk/en/persons/145323) (liutt@cs.aau.dk)
+1. [Tiantian Liu](https://tiantianliu-ttl.github.io/) (liutt@cs.aau.dk)
 2. [Huan Li](http://people.cs.aau.dk/~lihuan/) (lihuan@cs.aau.dk)
+3. [Hua Lu](https://luhua.ruc.dk/) (luhua@ruc.dk)
 
 Please feel free to contact us if any issues. You are also welcome to open an issue through GitHub.
 We will continue to maintain this project.
@@ -100,4 +101,4 @@ The authors would like to thank Zijin Feng for providing the relevant code.
 
 You are welcome to use our code and datasets for research use, but please do not forget to cite our paper :).
 
-Tiantian Liu, Huan Li, Hua Lu, Muhammad Aamir Cheema. An Experimental Analysis of Indoor Spatial Queries: Modeling, Indexing, and Processing. Submitted to IEEE Transactions on Knowledge and Data Engineering, 14 pages.
+Tiantian Liu, Huan Li, Hua Lu, Muhammad Aamir Cheema. Indoor Spatial Queries: Modeling, Indexing, and Processing. In EDBT (pp. 181-192).
